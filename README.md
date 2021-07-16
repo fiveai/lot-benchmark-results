@@ -1,10 +1,10 @@
-# SHM on ROS
+# LOT Benchmarks Results
 
-This repository contains supplementary material for the paper "Smart Pointers and Shared Memory Synchronisation for 
-Efficient Inter-process Communication in ROS on an Autonomous Vehicle".
+This repository contains supplementary material for the paper _Smart Pointers and Shared Memory Synchronisation for 
+Efficient Inter-process Communication in ROS on an Autonomous Vehicle_.
 
 The full resolution pictures used throughout the paper can be found under the [figures](./figures) folder, whilst the 
-underlying raw data is stored under the [data/core2](./data/core2) folder.
+underlying raw data is stored under the [data/core2](./data/core2) folder. The C++ source code is stored in [ros_comm](https://github.com/fiveai/ros_comm) repository on [lot branch](https://github.com/fiveai/ros_comm/tree/lot).
 
 The configuration of each use case has been embedded into the name of the file, e.g. 
 `sub1_shm_1p1s_same_docker_1024x1024_pool0_Hz30_count2000.txt` designates a test case where the SHM transport has been 
