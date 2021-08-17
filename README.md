@@ -1,7 +1,7 @@
 # LOT Benchmarks Results
 
-This repository contains supplementary material for the paper _Smart Pointers and Shared Memory Synchronisation for 
-Efficient Inter-process Communication in ROS on an Autonomous Vehicle_.
+This repository contains supplementary material for the paper 
+[Smart Pointers and Shared Memory Synchronisation for Efficient Inter-process Communication in ROS on an Autonomous Vehicle](https://arxiv.org/abs/2108.07085).
 
 The full resolution pictures used throughout the paper can be found under the [figures](./figures) folder, whilst the 
 underlying raw data is stored under the [data/core2](./data/core2) folder. The C++ source code is stored in [ros_comm](https://github.com/fiveai/ros_comm) repository on [lot branch](https://github.com/fiveai/ros_comm/tree/lot).
